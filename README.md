@@ -19,7 +19,7 @@
 
         h1 {
             font-family: 'Pacifico', cursive; /* Changed heading font to 'Pacifico' */
-            font-size: 9rem; /* Doubled the size of the heading */
+            font-size: 18rem; /* Doubled the size of the heading */
             margin-bottom: 20px;
             color: #1e3a8a; /* Dark blue color for heading */
         }
